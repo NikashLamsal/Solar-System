@@ -7,5 +7,5 @@ This is a Python project that visualizes a Solar System using Pygame. It uses th
 * Visualization of the solar system.
 * Teaching and learning computer graphics concepts
 
-## # Output Screenshot
+### Output Screenshot
 ![Solar System Output](./output.png)
