@@ -14,7 +14,7 @@ The **Static Solar System** displays a fixed, non-moving arrangement of the Sun,
 
 #### Output View
 
-![Static Solar System Output](./Static_Output.png)
+![Static Solar System Output](Static_Output.png)
 
 ### Dynamic Solar System
 
