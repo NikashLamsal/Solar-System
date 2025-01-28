@@ -22,5 +22,5 @@ The **Dynamic Solar System** adds real-time motion, where planets orbit the Sun 
 
 #### Output View 
 
-![Dynamic Solar System Output](./Dynamic%20Output.jpg)
+![Dynamic Solar System Output](./Dynamic%20Output.gif)
 
