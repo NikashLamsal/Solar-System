@@ -8,6 +8,14 @@ This is a Python project that visualizes the Solar System using Pygame. The proj
 * Learn and apply computer graphics concepts using Python and Pygame.
 * Experiment with mathematical algorithms for drawing and motion.
 
+### Dynamic Solar System
+
+The **Dynamic Solar System** adds real-time motion, where planets orbit the Sun in a more realistic, animated manner. The planets' velocities are calculated based on their orbital radii, providing a basic demonstration of orbital mechanics.
+
+#### Output View 
+
+![Dynamic Solar System Output](./Dynamic%20Output.gif)
+
 ### Static Solar System
 
 The **Static Solar System** displays a fixed, non-moving arrangement of the Sun, planets, and their orbits. The planets are positioned at fixed distances from the Sun, with elliptical orbits drawn using the **Mid-Point Ellipse Algorithm**.
@@ -16,11 +24,4 @@ The **Static Solar System** displays a fixed, non-moving arrangement of the Sun,
 
 ![Static Solar System Output](./Static%20Output.png)
 
-### Dynamic Solar System
-
-The **Dynamic Solar System** adds real-time motion, where planets orbit the Sun in a more realistic, animated manner. The planets' velocities are calculated based on their orbital radii, providing a basic demonstration of orbital mechanics.
-
-#### Output View 
-
-![Dynamic Solar System Output](./Dynamic%20Output.gif)
 
