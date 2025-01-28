@@ -14,7 +14,7 @@ The **Static Solar System** displays a fixed, non-moving arrangement of the Sun,
 
 #### Output View
 
-![Static Solar System Output](./Static_output.png)
+![Static Solar System Output](./Static%20Output.png)
 
 ### Dynamic Solar System
 
@@ -22,5 +22,5 @@ The **Dynamic Solar System** adds real-time motion, where planets orbit the Sun 
 
 #### Output View 
 
-![Dynamic Solar System Output](./Dynamic Output.mp4)
+![Dynamic Solar System Output](./Dynamic%20Output.mp4)
 
